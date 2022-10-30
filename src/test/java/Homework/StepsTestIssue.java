@@ -5,7 +5,7 @@ import qa.guru.allure.WebSteps;
 
 public class StepsTestIssue {
 
-    WebStepsIssue steps = new WebSteps();
+    WebStepsIssue steps = new WebStepsIssue();
 
     String repo = "Allure_Report_QA_GURU";
 

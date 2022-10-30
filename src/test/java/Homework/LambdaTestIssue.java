@@ -14,7 +14,7 @@ import static io.qameta.allure.Allure.step;
 
 public class LambdaTestIssue {
 
-    WebStepsIssue steps = new WebSteps();
+    WebStepsIssue steps = new WebStepsIssue();
 
     String repo = "Allure_Report_QA_GURU";
 
